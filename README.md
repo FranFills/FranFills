@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FranFills
-- 👀 I’m interested in Python and Java
-- 🌱 I’m currently learning Automation Testing
+- 👀 I’m interested in JavaScript and Python
+- 🌱 Automation Tester
 - 💞️ I’m looking to collaborate on Quality Assurance, Software Testing and Automation
 - 📫 You can reach me at frannfisayo@gmail.com ...
 
